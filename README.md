@@ -9,6 +9,9 @@ This survey centres around the Post-Quantum Digital Signature Algorithm, a criti
 
 <h2 align="left">Digital Signature Process:- </h2>
 
+![Sample Image](https://github.com/AmritaCSN/Rasha_Shajahan-A-Survey-on-Post-Quantum-Digital-Signature-Algorithms/blob/main/Digital_Signature_Process.png)
+
+
 https://github.com/AmritaCSN/Rasha_Shajahan-A-Survey-on-Post-Quantum-Digital-Signature-Algorithms/blob/main/Digital_Signature_Process.png
 
 <h2 align="left">Basic Workflow:- </h2>
