@@ -12,4 +12,4 @@ This survey centres around the Post-Quantum Digital Signature Algorithm, a criti
 
 ###
 *	Liboqs: An open-source C library for quantum-safe cryptographic algorithms.
-*A virtual machine with 6 processing cores and 6GB of RAM on a computer equipped with a 16-core 32-thread AMD Ryzen 9 3950X processor with 3.5 GHz processor frequency, and 32 GB RAM.
+* A virtual machine with 6 processing cores and 6GB of RAM on a computer equipped with a 16-core 32-thread AMD Ryzen 9 3950X processor with 3.5 GHz processor frequency, and 32 GB RAM.
