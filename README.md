@@ -38,10 +38,13 @@ This survey centres around the Post-Quantum Digital Signature Algorithm, a criti
 * Verification phase:
     * The receiver has the ability to examine the signed document using the sender's public key.
     *If the recipient discovers that the message matches the output obtained by inputting the message and the public key into the signature algorithm, they can confirm that the message is genuinely authenticated and has not been corrupted.
-  
-###
-<h2 align="left">Experimental Setup:- </h2>
 
 ###
-*	Liboqs: An open-source C library for quantum-safe cryptographic algorithms.
-* A virtual machine with 6 processing cores and 6GB of RAM on a computer equipped with a 16-core 32-thread AMD Ryzen 9 3950X processor with 3.5 GHz processor frequency, and 32 GB RAM.
+ <h2 align="left">Tools for evaluating PQC digital signature algorithms:- </h2>
+
+ * OpenSSL
+ * Cryptographic Libraries: Liboqs, libsodium, Crypto++
+ * NIST PQC Benchmarking Tools
+ * SUPERCOP Benchmarking suite
+   
+(Example setup: A virtual machine with 6 processing cores and 6GB of RAM on a computer equipped with a 16-core 32-thread AMD Ryzen 9 3950X processor with 3.5 GHz processor frequency, and 32 GB RAM.)
