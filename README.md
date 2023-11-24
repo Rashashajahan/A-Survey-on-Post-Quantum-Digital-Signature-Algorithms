@@ -21,10 +21,22 @@ This survey centres around the Post-Quantum Digital Signature Algorithm, a criti
 
 <h2 align="left">Workflow:- </h2>
 
-![aa](https://github.com/AmritaCSN/Rasha_Shajahan-A-Survey-on-Post-Quantum-Digital-Signature-Algorithms/assets/75829999/aad2e88e-4cb8-43bf-a17d-d15b897395a3)
+![BlockDiagram](https://github.com/AmritaCSN/Rasha_Shajahan-A-Survey-on-Post-Quantum-Digital-Signature-Algorithms/assets/75829999/e0972f28-1042-4a20-98b8-d3dd1c64717e)
 
 **Steps:**
 
+* Key Generation phase:
+  * Private key generation.
+  * Public key will be derived from private key.
+* Identity protocol phase:
+    * To associate an identity with the public key, the entity obtains a digital certificate. This certificate contains the public key and information about the entity, such as its name, organization, and other relevant details.
+    * The certificate is signed by a trusted third party called a Certificate Authority (CA). This CA verifies the identity of the entity before issuing the certificate and it will be shared in the network.
+* Signing phase:
+    * The data intended for signing and the sender's private key are provided as inputs to the Post-Quantum Cryptography (PQC) digital signature algorithm.
+    * The signed document will be shared with the reciever through internet.
+* Verification phase:
+    * The receiver has the ability to examine the signed document using the sender's public key.
+  
 ###
 <h2 align="left">Experimental Setup:- </h2>
 
