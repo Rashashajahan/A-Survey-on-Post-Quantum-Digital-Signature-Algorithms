@@ -14,11 +14,6 @@ This survey centres around the Post-Quantum Digital Signature Algorithm, a criti
   
 <img width="455" alt="Basic_Workflow" src="https://github.com/AmritaCSN/Rasha_Shajahan-A-Survey-on-Post-Quantum-Digital-Signature-Algorithms/assets/75829999/2531d577-4b21-434b-baf5-dd2e592e8bb3">
 
-<h2 align="left">Digital Signature Schemes:- </h2>
-
-<img width="542" alt="Digital_Signature_Process" src="https://github.com/AmritaCSN/Rasha_Shajahan-A-Survey-on-Post-Quantum-Digital-Signature-Algorithms/assets/75829999/97c1753e-6755-4ae6-bfbc-4de0e8a63bcd">
-
-
 <h2 align="left">Workflow:- </h2>
 
 ![DSA](https://github.com/AmritaCSN/Rasha_Shajahan-A-Survey-on-Post-Quantum-Digital-Signature-Algorithms/assets/75829999/2af0246c-08b5-459c-b7f4-4331af637405)
@@ -48,3 +43,15 @@ This survey centres around the Post-Quantum Digital Signature Algorithm, a criti
  * SUPERCOP Benchmarking suite
    
 (Example setup: A virtual machine with 6 processing cores and 6GB of RAM on a computer equipped with a 16-core 32-thread AMD Ryzen 9 3950X processor with 3.5 GHz processor frequency, and 32 GB RAM.)
+
+###
+ <h2 align="left">Procedure to be adhered to for execution:- </h2>
+
+* Establish the operating environment for implementing the algorithm.
+* Install necessary libraries and performance evaluation tools.
+* Choose the PQC algorithm for implementation.
+* Set up parameters, security levels, and key sizes according to the selected algorithm.
+* Generate key-pair.
+* Generate various types of signed documents and perform the verification process.
+* Assess the algorithm based on key size, time taken for signing and verification, and the protocol used for file transfer, among other factors.
+
