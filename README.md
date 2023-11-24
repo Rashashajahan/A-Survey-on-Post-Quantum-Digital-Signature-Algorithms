@@ -21,7 +21,8 @@ This survey centres around the Post-Quantum Digital Signature Algorithm, a criti
 
 <h2 align="left">Workflow:- </h2>
 
-![BlockDiagram](https://github.com/AmritaCSN/Rasha_Shajahan-A-Survey-on-Post-Quantum-Digital-Signature-Algorithms/assets/75829999/e0972f28-1042-4a20-98b8-d3dd1c64717e)
+![DSA](https://github.com/AmritaCSN/Rasha_Shajahan-A-Survey-on-Post-Quantum-Digital-Signature-Algorithms/assets/75829999/2af0246c-08b5-459c-b7f4-4331af637405)
+
 
 **Steps:**
 
@@ -36,6 +37,7 @@ This survey centres around the Post-Quantum Digital Signature Algorithm, a criti
     * The signed document will be shared with the reciever through internet.
 * Verification phase:
     * The receiver has the ability to examine the signed document using the sender's public key.
+    *If the recipient discovers that the message matches the output obtained by inputting the message and the public key into the signature algorithm, they can confirm that the message is genuinely authenticated and has not been corrupted.
   
 ###
 <h2 align="left">Experimental Setup:- </h2>
